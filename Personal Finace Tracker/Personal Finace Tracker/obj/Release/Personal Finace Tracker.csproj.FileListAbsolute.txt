@@ -1,0 +1,10 @@
+C:\Users\L3G1\AppData\Local\Temporary Projects\Personal Finace Tracker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L3G1\AppData\Local\Temporary Projects\Personal Finace Tracker\bin\Release\Personal Finace Tracker.exe
+C:\Users\L3G1\AppData\Local\Temporary Projects\Personal Finace Tracker\bin\Release\Personal Finace Tracker.pdb
+C:\Users\L3G1\AppData\Local\Temporary Projects\Personal Finace Tracker\obj\Release\Personal Finace Tracker.exe
+C:\Users\L3G1\AppData\Local\Temporary Projects\Personal Finace Tracker\obj\Release\Personal Finace Tracker.pdb
+C:\Users\L3G1\Documents\Visual Studio 2008\Projects\Personal Finace Tracker\Personal Finace Tracker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L3G1\Documents\Visual Studio 2008\Projects\Personal Finace Tracker\Personal Finace Tracker\bin\Release\Personal Finace Tracker.exe
+C:\Users\L3G1\Documents\Visual Studio 2008\Projects\Personal Finace Tracker\Personal Finace Tracker\bin\Release\Personal Finace Tracker.pdb
+C:\Users\L3G1\Documents\Visual Studio 2008\Projects\Personal Finace Tracker\Personal Finace Tracker\obj\Release\Personal Finace Tracker.exe
+C:\Users\L3G1\Documents\Visual Studio 2008\Projects\Personal Finace Tracker\Personal Finace Tracker\obj\Release\Personal Finace Tracker.pdb
