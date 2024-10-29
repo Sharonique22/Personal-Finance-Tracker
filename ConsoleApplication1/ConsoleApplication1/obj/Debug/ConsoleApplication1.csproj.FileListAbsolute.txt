@@ -1,0 +1,5 @@
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

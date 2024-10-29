@@ -1,0 +1,7 @@
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.exe
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\sharo\Documents\Visual Studio 2013\Projects\Fighting game\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
